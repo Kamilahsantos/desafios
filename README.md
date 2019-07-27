@@ -6,6 +6,9 @@ Escolha em qual linguagem irá implementar (a não ser que um de nossos colabora
 Não há diferença de testes para diferentes níveis de profissionais, porém o teste será avaliado com diferentes critérios, dependendo do perfil da vaga.
 
 1. [Manipulação de strings](https://github.com/idwall/desafios/tree/master/strings)
+
+A resolução deste desafio e as devidas instruções estão dentro da pasta app
+
 2. [Crawlers](https://github.com/idwall/desafios/tree/master/crawlers)
 
 ## Como entregar estes desafios
