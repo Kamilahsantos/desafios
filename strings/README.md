@@ -33,3 +33,14 @@ O exemplo de output está [neste arquivo](https://github.com/idwall/desafios/blo
 ### Extras
 
 - Parametrização da quantidade de caracteres por linha.
+
+### Execução do projeto
+
+Para instalar as dependências npm install
+
+Para rodar os testes : npm run test
+
+Para executar o primeiro desafio: node challengeone.js
+
+Para executar o segundo desafio: node challengetwo.js
+
